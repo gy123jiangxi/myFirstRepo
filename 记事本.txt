@@ -1,0 +1,14 @@
+mysql :①inux  root 123456
+           ②windows root root
+
+oracleXE:system  sun
+
+大街:6c82defc
+
+cnblogs: 臭、啊@19970812
+
+阿里云社区:龚yu1997 gy19970812
+
+git:gongyu 1914432785@qq.com
+github:gy123jiangxi
+码云:15180122093	gy19970812 gongyu 1914432785@qq.com
